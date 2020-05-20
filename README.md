@@ -11,6 +11,6 @@ absence_plotting_pcon.ipynb -- plots normalised absence rates for UK constituenc
 
    [bristol]: <https://www.bristol.ac.uk/golding/get-involved/competitions/loneliness-and-movement-for-education-competition/>
    [loneliness]: <https://datasciencecampus.ons.gov.uk/developing-a-loneliness-prescription-index/>
-   [gov]" <https://www.gov.uk/school-performance-tables>
+   [gov]: <https://www.gov.uk/school-performance-tables>
    
 
